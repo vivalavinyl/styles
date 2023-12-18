@@ -157,7 +157,7 @@
   .view li {
     margin: 0px;
   }
-  .view li > iframe {
+  iframe {
     width: 100%;
     height: auto;
   }
