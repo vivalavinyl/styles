@@ -157,6 +157,10 @@
   .view li {
     margin: 0px;
   }
+  .view li iframe {
+    width: 100%;
+    height: auto;
+  }
 }
 
 @media only screen and (max-width: 586px) {
