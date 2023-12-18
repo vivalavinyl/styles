@@ -12,7 +12,7 @@
     display: inline-flex;
   }
   .nav.bottom {
-    display: inline-flex;
+    /* display: inline-flex; */
     overflow: auto;
     -webkit-overflow-scrolling: touch;
   }
